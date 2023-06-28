@@ -19,14 +19,14 @@ With the application of thermoelectric technology, the electric bottle provides 
 This technology leverages the Peltier effect, enabling the transfer of heat between the beverage inside the bottle and the external environment. 
 By utilizing this principle, the electric bottle can rapidly cool down a drink to an icy refreshment or elevate it to a steaming hot beverage, all while preserving the desired temperature for extended periods.
 # Component
-outershell
-Inner Chamber
-Cooling Module
-Heating Module
-temperature sensor
-Control panel
-Rechargeable battery
-Companion App
-insulation 
-lid/cap
+outershell,
+Inner Chamber,
+Cooling Module,
+Heating Module,
+temperature sensor,
+Control panel,
+Rechargeable battery,
+Companion App,
+insulation ,
+lid/cap.
 
