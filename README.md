@@ -19,30 +19,14 @@ With the application of thermoelectric technology, the electric bottle provides 
 This technology leverages the Peltier effect, enabling the transfer of heat between the beverage inside the bottle and the external environment. 
 By utilizing this principle, the electric bottle can rapidly cool down a drink to an icy refreshment or elevate it to a steaming hot beverage, all while preserving the desired temperature for extended periods.
 # Component
-Components for an Electric Bottle 
-Outer Shell: The outer shell of the electric bottle is typically made of durable and insulating materials such as stainless steel or BPA-free plastic
-. It provides structural integrity, heat insulation, and protection for the internal components.
-Inner Chamber: The inner chamber holds the beverage and is designed to be leak-proof and easy to clean. 
-It is typically made of food-grade materials that ensure the quality and safety of the stored liquids.
-
-Cooling Module: The cooling module consists of a thermoelectric cooling system, commonly known as a Peltier module.
-It utilizes the Peltier effect to transfer heat from the inner chamber to the external environment, rapidly cooling down the beverage.
-The cooling module is responsible for maintaining the desired low temperatures.
-Heating Module: The heating module also utilizes the Peltier effect but in reverse. 
-It transfers heat from the external environment to the inner chamber, raising the temperature of the beverage. 
-The heating module ensures efficient and controlled heating of the liquid.
-Temperature Sensors: The electric bottle incorporates temperature sensors that constantly monitor the internal temperature of the beverage.
-These sensors provide real-time feedback to the control system, allowing for accurate temperature regulation and maintenance.
-Control Panel: The control panel is a user-friendly interface located on the bottle's exterior.
-It allows users to adjust the desired temperature settings, switch between heating and cooling modes, and access additional features.
-The control panel may consist of buttons, a display screen, and indicator lights.
-Rechargeable Battery: To ensure portability and cordless operation, the electric bottle is equipped with a rechargeable battery. 
-This battery powers the cooling and heating modules as well as the control system.
-It can be conveniently recharged using a USB cable or a designated charging dock.
-Companion App: Some electric bottles may come with a companion smartphone application that enables users to control and monitor the bottle remotely.
-The app allows for additional features such as temperature presets, timers, and notifications, enhancing the overall user experience.
-Insulation: Apart from the cooling and heating modules, the electric bottle incorporates additional insulation materials to minimize heat transfer between the inner chamber and the external environment. This insulation helps to maintain the desired temperature for extended periods, preserving the quality of the beverage.
-Lid/Cap: The lid or cap of the electric bottle is designed to provide a secure seal to prevent leakage and maintain temperature insulation.
-It may include features like a spout, flip-top opening, or a straw for convenient drinking.
-
+outershell
+Inner Chamber
+Cooling Module
+Heating Module
+temperature sensor
+Control panel
+Rechargeable battery
+Companion App
+insulation 
+lid/cap
 
